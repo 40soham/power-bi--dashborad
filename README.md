@@ -19,3 +19,4 @@ This project is a Power BI dashboard created to analyze [your topic].
 ## 📷 Dashboard Preview
 (Add screenshot here)
 ![Dashboard]Screenshot 2026-04-08 153416.png
+![Dashboard]Screenshot 2026-04-08 154716.png
